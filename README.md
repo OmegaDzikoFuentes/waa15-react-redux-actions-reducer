@@ -142,3 +142,4 @@ console. It will show the `prev state` with an `article.entries` array of length
 [add-ReduxDevTools]: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 [reducer]: https://redux.js.org/usage/structuring-reducers/basic-reducer-structure
 [redux-logger]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/redux/assets/redux-logger-articles.png
+# waa15-react-redux-actions-reducer
